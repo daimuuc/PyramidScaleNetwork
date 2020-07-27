@@ -11,4 +11,16 @@ Python: 3.6
   
 PyTorch: 1.5.0
 
+# Train & Test
+1、python make_dataset.py # generate the ground truth. the ShanghaiTech dataset should be placed in the "datasets" directory.  
+2、python train.py # train model  
+3、python val.py # test model
+
+# Results
+partA: MAE 55.5 MSE 90.1  
+  
+partB: MAE 6.8 MSE 10.7
+
+# Todo
+Once the paper is accepted, we will upload the code.
 
