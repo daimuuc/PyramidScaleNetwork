@@ -5,8 +5,10 @@ This is the PyTorch version repo for [Exploit the potential of Multi-column arch
 ShanghaiTech Dataset
 
 # Prerequisites
-We strongly recommend Anaconda as the environment.
-Python: 3.6
+We strongly recommend Anaconda as the environment.  
+  
+Python: 3.6  
+  
 PyTorch: 1.5.0
 
 
