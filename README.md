@@ -1,2 +1,2 @@
 # Pyramid_Scale_Network
-To the best of our knowledge, PSNet is the first work to explicitly address scale limitation and feature similarity in multi-column design. Extensive experiments on five benchmark datasets demonstrate the effectiveness of the proposed innovations as well as the superior performance over the state-of-the-art.
+This is the PyTorch version repo for [Exploit the potential of Multi-column architecture for Crowd Counting](https://arxiv.org/abs/2007.05779), which delivered a state-of-the-art, straightforward and end-to-end architecture for crowd counting tasks.
