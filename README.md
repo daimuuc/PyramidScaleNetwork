@@ -20,7 +20,3 @@ PyTorch: 1.5.0
 partA: MAE 55.5 MSE 90.1  
   
 partB: MAE 6.8 MSE 10.7
-
-# Todo
-Once the paper is accepted, we will upload the code.
-
